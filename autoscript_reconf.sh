@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# author: dr3y
 # IMPORTANT: VERIFY ALL VARIABLES BEFORE EXECUTE IT
 
 OLDNODE=ejabberd@localhost
